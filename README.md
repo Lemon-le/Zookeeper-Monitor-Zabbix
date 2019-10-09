@@ -1,0 +1,2 @@
+# Zookeeper-Monitor-Zabbix
+使用Zabbix监控Zookeeper，使用四字命令的mntr获取常用监控指标，结合Zabbix制作Template
